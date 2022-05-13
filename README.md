@@ -1,2 +1,2 @@
-# rikemorais.courses.alura.python
+# Python
 Learning to teach Python
