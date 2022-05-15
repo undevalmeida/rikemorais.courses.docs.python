@@ -4,9 +4,12 @@ def play():
     print("*******************************")
 
     secret = "banana"
+    hits = ["_", "_", "_", "_", "_", "_"]
 
     over = False
     right = False
+
+    print(hits)
 
     while not over and not right:
         kick = input("What's the letter?").strip().upper()
@@ -14,10 +17,10 @@ def play():
         index = 0
         for letter in secret:
             if kick == letter.upper():
-                print(f"Encontrei a letra {letter.upper()} na posição {index}")
+                hits[index] = letter
             index = index + 1
 
-        print("Jogando!")
+        print(hits)
 
     print("Fim do Jogo!")
 
