@@ -1,3 +1,3 @@
-# Python 3 - Part 01: Introduction to the New Version of the Language
+# Python
 
-Introductory Python course developed by Alura.
+- P01 - Python 3 - Part 01: Introduction to the New Version of the Language
