@@ -1,9 +1,21 @@
+import random
+
+
 def play():
     print("*******************************")
     print("Welcome to the Divination Game!")
     print("*******************************")
 
-    secret = "rike".upper()
+    file = open("words.txt", "r")
+    words = []
+
+    for line in file:
+        line = line.strip()
+        words.append(line)
+    file.close()
+    number = random.randrange(0, len(words))
+    secret = words[number].upper()
+
     hits = ["_" for letter in secret]
 
     over = False
