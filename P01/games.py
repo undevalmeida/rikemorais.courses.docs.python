@@ -7,9 +7,11 @@ print("*******************************")
 
 print("(1) Wordwall (2) Divination")
 
-game = int(input("Qual jogo?"))
+game = int(input("Qual jogo? "))
 
 if game == 1:
     print("Playing Wordwall")
+    wordwall.play()
 elif game == 2:
     print("Playing Divination")
+    divination.play()
