@@ -1,10 +1,11 @@
+import random
+
 print("*******************************")
 print("Welcome to the Divination Game!")
 print("*******************************")
 
-numero_secreto = 42
+numero_secreto = random.randrange(1, 101)
 total_de_tentativas = 3
-rodada = 1
 
 for rodada in range(1, total_de_tentativas + 1):
     print(f"Tentativa {rodada} de {total_de_tentativas}")
