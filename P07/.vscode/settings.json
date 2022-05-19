@@ -1,5 +1,10 @@
 {
     "cSpell.words": [
+        "bfill",
+        "Condominio",
+        "dropna",
+        "ffill",
+        "fillna",
         "imovel",
         "inplace",
         "isin"
