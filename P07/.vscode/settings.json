@@ -2,6 +2,7 @@
     "cSpell.words": [
         "asdaesdaesdaesda",
         "bfill",
+        "boxplot",
         "Condominio",
         "dropna",
         "ffill",
@@ -12,6 +13,8 @@
         "inplace",
         "isin",
         "pyplot",
+        "quantile",
+        "savefig",
         "xlabel"
     ]
 }
