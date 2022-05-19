@@ -1,1 +1,1 @@
-# P07 - Python Pandas - Tratando e Analisando Dados
+# P07 - Python Pandas - Handling and Analyzing Data
