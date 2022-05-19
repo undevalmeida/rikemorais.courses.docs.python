@@ -5,9 +5,13 @@
         "Condominio",
         "dropna",
         "ffill",
+        "figsize",
         "fillna",
+        "fontsize",
         "imovel",
         "inplace",
-        "isin"
+        "isin",
+        "pyplot",
+        "xlabel"
     ]
 }
