@@ -1,12 +1,9 @@
-from datetime import datetime, timedelta
-from datas_br import DatasBr
+import requests
+from acesso_cep import BuscaEndereco
 
-'''
-hoje = datetime.today()
-hoje_formatada = hoje.strftime('%d/%m/%Y %H:%M:%S')
-print(hoje)
-print(hoje_formatada)
-'''
+cep = "49042423"
+objeto_cep = BuscaEndereco(cep)
 
-hoje = DatasBr()
-print(hoje.tempo_cadastro())
+bairro, cidade, uf = objeto_cep.acessa_via_cep()
+
+print(bairro, cidade, uf, sep=', ')
