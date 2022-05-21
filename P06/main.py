@@ -1,10 +1,12 @@
-from TelefonesBr import TelefonesBr
-import re
+from datetime import datetime, timedelta
+from datas_br import DatasBr
 
-telefone = "551126481234"
-telefone_objeto = TelefonesBr(telefone)
-#padrao = "([0-9]{2,3})?([0-9]{2})([0-9]{4,5})([0-9]{4})"
-#resposta = re.search(padrao, telefone)
-#print(resposta.group())
+'''
+hoje = datetime.today()
+hoje_formatada = hoje.strftime('%d/%m/%Y %H:%M:%S')
+print(hoje)
+print(hoje_formatada)
+'''
 
-print(telefone_objeto)
+hoje = DatasBr()
+print(hoje.tempo_cadastro())
