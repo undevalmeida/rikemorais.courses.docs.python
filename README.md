@@ -16,7 +16,6 @@
             <li>P04 - Advancing in Object Orientation</li>
             <li>P05 - Working with I/O</li>
             <li>P06 - Data Validation in the Brazilian Standard</li>
-    <summary>
 </details>
 <details>
     <summary>
@@ -30,6 +29,5 @@
     <summary>
         <b>Data</b>
     </summary>
-            <li></li>
     </summary>
 </details> 
