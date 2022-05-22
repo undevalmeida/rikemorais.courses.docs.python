@@ -3,8 +3,11 @@
         "bytebank",
         "dolar",
         "dolarmoeda",
+        "endereco",
         "indice",
         "interrogacao",
+        "naoexiste",
+        "padrao",
         "parametro",
         "parametros"
     ]
