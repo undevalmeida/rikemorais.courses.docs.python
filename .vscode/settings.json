@@ -1,14 +1,26 @@
 {
     "cSpell.words": [
+        "atualizafila",
         "bytebank",
+        "chamacliente",
+        "clienteatual",
+        "clintesatendidos",
+        "codigo",
         "dolar",
         "dolarmoeda",
         "endereco",
+        "estatistica",
+        "filanormal",
+        "gerasenhaatual",
         "indice",
         "interrogacao",
         "naoexiste",
         "padrao",
         "parametro",
-        "parametros"
+        "parametros",
+        "prioritaria",
+        "reseta",
+        "resetafila",
+        "senhaatual"
     ]
 }

@@ -10,19 +10,21 @@
     <summary>
         <b>Language</b>
     </summary>
-            <li>P01 - Part 01: Introduction to the New Version of the Language</li>
-            <li>P02 - Part 02: Advancing in Language</li>
-            <li>P03 - Introduction to Object Orientation</li>
-            <li>P04 - Advancing in Object Orientation</li>
-            <li>P05 - Working with I/O</li>
-            <li>P06 - Data Validation in the Brazilian Standard</li>
+            <li><b>P01</b> - Part 01: Introduction to the New Version of the Language</li>
+            <li><b>P02</b> - Part 02: Advancing in Language</li>
+            <li><b>P03</b> - Introduction to Object Orientation</li>
+            <li><b>P04</b> - Advancing in Object Orientation</li>
+            <li><b>P05</b> - Working with I/O</li>
+            <li><b>P06</b> - Data Validation in the Brazilian Standard</li>
+            <li><b>P07</b> - String in Python - Extracting Information from a URL</li>
+            <li><b>P08</b> - Python - Good Code Practices with PEP8</li>
 </details>
 <details>
     <summary>
         <b>Libs</b>
     </summary>
-            <li>P01 - Python for Data Science: Introduction to the Language and Numpy</li>
-            <li>P03 - Python Pandas - Handling and Analyzing Data</li>
+            <li><b>P01</b> - Python for Data Science: Introduction to the Language and Numpy</li>
+            <li><b>P03</b> - Python Pandas - Handling and Analyzing Data</li>
     </summary>
 </details>
 <details>
