@@ -22,5 +22,8 @@
         "reseta",
         "resetafila",
         "senhaatual"
+    ],
+    "python.analysis.extraPaths": [
+        "./Language/P08"
     ]
 }
