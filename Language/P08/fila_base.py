@@ -1,8 +1,10 @@
 import abc
 from typing import List
+
 from constantes import TAMANHO_PADRAO_MAXIMO, TAMANHO_PADRAO_MINIMO
 
-class FilaBase(metaclass = abc.ABCMeta):
+
+class FilaBase(metaclass=abc.ABCMeta):
 
     codigo: int = 0
     fila: List[str] = []

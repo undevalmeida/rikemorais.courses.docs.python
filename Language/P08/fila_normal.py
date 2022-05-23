@@ -1,4 +1,3 @@
-from ast import Constant
 from fila_base import FilaBase
 from constantes import CODIGO_NORMAL
 
