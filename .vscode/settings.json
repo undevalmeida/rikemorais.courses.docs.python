@@ -24,7 +24,8 @@
         "PRIORITARIO",
         "reseta",
         "resetafila",
-        "senhaatual"
+        "senhaatual",
+        "visualizacao"
     ],
     "python.analysis.extraPaths": [
         "./Language/P08",

@@ -18,6 +18,7 @@
             <li><b>P06</b> - Data Validation in the Brazilian Standard</li>
             <li><b>P07</b> - String in Python - Extracting Information from a URL</li>
             <li><b>P08</b> - Python - Good Code Practices with PEP8</li>
+            <li><b>P09</b> - Python Collections - Part 1 - Lists and Tuples</li>
 </details>
 <details>
     <summary>
