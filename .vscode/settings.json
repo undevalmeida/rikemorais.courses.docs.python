@@ -14,16 +14,20 @@
         "gerasenhaatual",
         "indice",
         "interrogacao",
+        "MAXIMO",
+        "MINIMO",
         "naoexiste",
         "padrao",
         "parametro",
         "parametros",
         "prioritaria",
+        "PRIORITARIO",
         "reseta",
         "resetafila",
         "senhaatual"
     ],
     "python.analysis.extraPaths": [
-        "./Language/P08"
+        "./Language/P08",
+        "./Language/P08/constants"
     ]
 }
