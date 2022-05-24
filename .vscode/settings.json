@@ -14,6 +14,7 @@
         "gerasenhaatual",
         "indice",
         "interrogacao",
+        "Jogoteca",
         "MAXIMO",
         "MINIMO",
         "naoexiste",
@@ -25,6 +26,8 @@
         "reseta",
         "resetafila",
         "senhaatual",
+        "Skyrim",
+        "Valorant",
         "visualizacao"
     ],
     "python.analysis.extraPaths": [
