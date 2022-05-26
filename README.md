@@ -37,5 +37,6 @@
     <summary>
         <b>Frameworks</b>
     </summary>
-            <li><b>P01 - Flask - Part 01 - Create a Webapp with Python 3</b></li> 
+            <li><b>P01</b> - Flask - Part 01 - Create a Webapp with Python 3</li>
+            <li><b>P02</b> - Flask - Part 02 - Advancing in Web Development</li>
 </details> 
