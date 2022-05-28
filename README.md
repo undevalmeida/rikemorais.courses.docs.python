@@ -39,4 +39,5 @@
     </summary>
             <li><b>P01</b> - Flask - Part 01 - Create a Webapp with Python 3</li>
             <li><b>P02</b> - Flask - Part 02 - Advancing in Web Development</li>
+            <li><b>P03</b> - Django - Model, Routes and Views</li>
 </details> 
