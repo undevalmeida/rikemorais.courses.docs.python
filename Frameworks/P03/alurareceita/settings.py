@@ -128,4 +128,10 @@ STATICFILES_DIRS = [
     os.path.join(BASE_DIR, 'alurareceita/static')
 ]
 
+# Em algum momento o Django começou a permitir a alteração do Tipo de Dado do ID
+# Decidi deixar como padrão o AutoField, que é o tipo de dado mais comum
 DEFAULT_AUTO_FIELD = 'django.db.models.AutoField'
+
+# Media
+MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
+MEDIA_URL = '/media/'
