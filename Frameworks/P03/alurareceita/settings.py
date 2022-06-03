@@ -10,6 +10,8 @@ For the full list of settings and their values, see
 https://docs.djangoproject.com/en/2.2/ref/settings/
 """
 
+from asyncio import constants
+from django.contrib.messages import constants as messages
 import os
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
@@ -136,3 +138,9 @@ MEDIA_URL = '/media/'
 # Em algum momento o Django começou a permitir a alteração do Tipo de Dado do ID
 # Decidi deixar como padrão o AutoField, que é o tipo de dado mais comum
 DEFAULT_AUTO_FIELD = 'django.db.models.AutoField'
+
+# Messages
+MESSAGE_TAGS = {
+    messages.ERROR: 'danger',
+    messages.SUCCESS: 'success',
+}
