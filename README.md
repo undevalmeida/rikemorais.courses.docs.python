@@ -43,4 +43,5 @@
             <li><b>P04</b> - Django Template Integration - Filters, Searches and Admin</li>
             <li><b>P05</b> - Authentication in Django: Forms, Requests, and Messages</li>
             <li><b>P06</b> - Django Best Practices - Apps, Folders, and Paging</li>
+            <li><b>P07</b> - Forms in Django 3 - Creating and Validating Data</li>
 </details> 
