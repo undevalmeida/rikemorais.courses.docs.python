@@ -3,8 +3,8 @@ import random
 
 def play():
     print("Welcome to the Divination Game!")
-    print("*******************************")
-    print("*******************************")
+    print("*"*31)
+    print("*"*31)
 
     secret = random.randrange(1, 101)
     attempts = 0
